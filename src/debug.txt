@@ -1,0 +1,224 @@
+
+
+[2016-03-06 15:15:48.364] class java.lang.Double
+123.456
+
+[2016-03-06 15:15:48.366] class java.lang.Float
+123.456
+
+[2016-03-06 15:15:48.367] class java.lang.Short
+123
+
+[2016-03-06 15:15:48.368] class java.lang.String
+single string
+
+[2016-03-06 15:15:48.368] class [Ljava.lang.String;
+String[] {
+	[0] => a
+	[1] => b
+}
+
+[2016-03-06 15:15:48.369] class [[Ljava.lang.String;
+String[][] {
+	String[] {
+		[0] => a1
+		[1] => b1
+	}
+	String[] {
+		[0] => c2
+		[1] => d2
+	}
+}
+
+[2016-03-06 15:15:48.370] class [[[Ljava.lang.String;
+String[][][] {
+	String[][] {
+		String[] {
+			[0] => a1
+			[1] => b1
+		}
+		String[] {
+			[0] => c2
+			[1] => d2
+		}
+	}
+	String[][] {
+		String[] {
+			[0] => bebebbe
+		}
+	}
+}
+
+[2016-03-06 15:15:48.370] class java.lang.Double
+123.456
+
+[2016-03-06 15:15:48.371] class [Ljava.lang.Number;
+Number[] {
+	[0] => 123.456
+	[1] => 987
+}
+
+[2016-03-06 15:15:48.371] class [[Ljava.lang.Number;
+Number[][] {
+	Number[] {
+		[0] => 123.456
+		[1] => 987
+	}
+	Number[] {
+		[0] => 23
+		[1] => 45
+	}
+}
+
+[2016-03-06 15:15:48.372] class [[[Ljava.lang.Number;
+Number[][][] {
+	Number[][] {
+		Number[] {
+			[0] => 123.456
+			[1] => 987
+		}
+		Number[] {
+			[0] => 23
+			[1] => 45
+		}
+	}
+	Number[][] {
+		Number[] {
+			[0] => 9876543
+		}
+	}
+}
+
+[2016-03-06 15:15:48.373] class java.lang.Character
+ģ
+
+[2016-03-06 15:15:48.373] class [Ljava.lang.Character;
+Character[] {
+	[0] => ģ
+	[1] => і
+	[2] => މ
+}
+
+[2016-03-06 15:15:48.374] class [[Ljava.lang.Character;
+Character[][] {
+	Character[] {
+		[0] => ģ
+		[1] => і
+	}
+	Character[] {
+		[0] => މ
+	}
+}
+
+[2016-03-06 15:15:48.374] class [[[Ljava.lang.Character;
+Character[][][] {
+	Character[][] {
+		Character[] {
+			[0] => ģ
+			[1] => і
+		}
+		Character[] {
+			[0] => މ
+		}
+	}
+	Character[][] {
+		Character[] {
+			[0] => ř
+		}
+	}
+}
+
+[2016-03-06 15:15:48.376] class java.lang.Byte
+123
+
+[2016-03-06 15:15:48.376] class [Ljava.lang.Byte;
+Byte[] {
+	[0] => 12
+	[1] => 34
+	[2] => 56
+}
+
+[2016-03-06 15:15:48.377] class [[Ljava.lang.Byte;
+Byte[][] {
+	Byte[] {
+		[0] => 12
+		[1] => 34
+	}
+	Byte[] {
+		[0] => 56
+	}
+}
+
+[2016-03-06 15:15:48.377] class [[[Ljava.lang.Byte;
+Byte[][][] {
+	Byte[][] {
+		Byte[] {
+			[0] => 12
+			[1] => 34
+		}
+		Byte[] {
+			[0] => 56
+		}
+	}
+	Byte[][] {
+		Byte[] {
+			[0] => -56
+		}
+	}
+}
+
+[2016-03-06 15:15:48.378] class java.lang.Boolean
+true
+
+[2016-03-06 15:15:48.378] null
+null
+
+[2016-03-06 15:15:48.379] class java.util.ArrayList
+Array[] {
+	[0] => string 1
+	[1] => string 2
+}
+
+[2016-03-06 15:15:48.379] class java.util.ArrayList
+Array[] {
+	String[] {
+		[0] => qwer
+		[1] => asdf
+	}
+	String[] {
+		[0] => zxvc
+	}
+}
+
+[2016-03-06 15:15:48.381] class dv.utils.Tmp
+Object {
+	[:public] p1 => String[] {
+			[0] => hello
+			[1] => world
+		}
+	[:public] p2 => heheheheh
+	[:private] __str1 => hello
+	[:private] __str2 => world
+}
+
+[2016-03-06 15:15:48.382] class java.util.ArrayList
+Array[] {
+	[0] => Object {
+		[:public] p1 => String[] {
+				[0] => hello
+				[1] => world
+			}
+		[:public] p2 => heheheheh
+		[:private] __str1 => hello
+		[:private] __str2 => world
+	}
+	[1] => Object {
+		[:public] p1 => String[] {
+				[0] => hello
+				[1] => world
+			}
+		[:public] p2 => heheheheh
+		[:private] __str1 => this is my
+		[:private] __str2 => first java class
+	}
+}
